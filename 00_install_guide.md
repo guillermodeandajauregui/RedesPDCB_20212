@@ -81,7 +81,6 @@ install.packages("tidygraph") #para analizar las redes con sintaxis Tidy
 install.packages("ggraph") #para generar visualizaciones tipo ggplot
 ```
 
-Pueden consultar
 
 networkx
 --------
